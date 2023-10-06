@@ -11,10 +11,8 @@ Visual question answering (VQA) is a complicated multimodal research problem in 
 
 ## Model Architecture
 ![SAM-VQA2](archi.png)
- 
-# Quantitative
-
-
-# Qualitative
+## Quantitative
+![Accuracy](res.png)
+## Qualitative
 ![SAM-VQA3](fig2.png)
 
