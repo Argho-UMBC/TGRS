@@ -17,13 +17,13 @@ Visual question answering (VQA) is a complicated multimodal research problem in 
 ![SAM-VQA3](fig2.png)
 
 ### Citation 
-> @ARTICLE{10124393,
->  author={Sarkar, Argho and Chowdhury, Tashnim and Murphy, Robin Roberson and Gangopadhyay, Aryya and Rahnemoonfar, Maryam},
-> journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-> title={SAM-VQA: Supervised Attention-Based Visual Question Answering Model for Post-Disaster Damage Assessment on Remote Sensing Imagery}, 
->  year={2023},
->  volume={61},
->  number={},
->  pages={1-16},
+> @ARTICLE{10124393,\
+>  author={Sarkar, Argho and Chowdhury, Tashnim and Murphy, Robin Roberson and Gangopadhyay, Aryya and Rahnemoonfar, Maryam},\
+> journal={IEEE Transactions on Geoscience and Remote Sensing}, \
+> title={SAM-VQA: Supervised Attention-Based Visual Question Answering Model for Post-Disaster Damage Assessment on Remote Sensing Imagery}, \
+>  year={2023},\
+>  volume={61},\
+>  number={},\
+>  pages={1-16},\
 >  doi={10.1109/TGRS.2023.3276293}}
 
