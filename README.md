@@ -5,7 +5,7 @@ Each natural disaster leaves a trail of destruction and damage that must be effe
 
 
 
-!(area_dist.png)
+![Area Distribution](area_dist.png)
 
 
 # Motivation
