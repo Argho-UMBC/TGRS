@@ -5,7 +5,7 @@ Each natural disaster leaves a trail of destruction and damage that must be effe
 
 
 
-![Area Distribution](area_dist.png)
+![SAM-VQA](fig1 (1).png)
 
 
 # Motivation
@@ -18,7 +18,7 @@ Visual question answering (VQA) is a complicated multimodal research problem in 
 
 # Model Architecture
 
-
+![SAM-VQA2](archi.png)
 
 ## Results
 
@@ -27,5 +27,5 @@ Visual question answering (VQA) is a complicated multimodal research problem in 
 
 # Qualitative
 
-
+![SAM-VQA3](fig2 (1).png)
 
