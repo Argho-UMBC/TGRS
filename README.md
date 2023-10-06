@@ -5,7 +5,7 @@ Each natural disaster leaves a trail of destruction and damage that must be effe
 
 
 
-![SAM-VQA](fig1 (1).png)
+![SAM-VQA](fig1(1).png)
 
 
 # Motivation
