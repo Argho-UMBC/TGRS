@@ -5,7 +5,7 @@ Each natural disaster leaves a trail of destruction and damage that must be effe
 
 
 
-![alt text](fig1.pdf)
+!(fig1.pdf)
 
 
 # Motivation
